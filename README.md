@@ -1,0 +1,1 @@
+RDLC show record rows per page instead of using tablix/table
